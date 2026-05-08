@@ -29,8 +29,8 @@ body {
     position: relative;
     z-index: 2;
     text-align: center;
-    width: 100%;
-    max-width: 400px;
+    width: 90%;
+    max-width: 600px;
 }
 
 .aura-count {
