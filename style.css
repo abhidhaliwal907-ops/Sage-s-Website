@@ -34,7 +34,7 @@ body {
 }
 
 .aura-count {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     color: #ff3e3e; /* Red aura color */
     text-shadow: 0 0 15px #ff0000;
     letter-spacing: 3px;
@@ -96,8 +96,8 @@ body {
 }
 
 .btn img {
-    width: 40px; /* Adjust size of icons here */
-    height: 40px;
+    width: 60px; /* Adjust size of icons here */
+    height: 60px;
     filter: drop-shadow(0 0 5px rgba(255, 0, 0, 0.5)); /* Subtle red glow */
     transition: 0.3s;
 }
